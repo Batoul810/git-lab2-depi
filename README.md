@@ -1,6 +1,3 @@
 git lab2 depi
-
-
-
-!\[My Image](logo.jpg)
+![My Image](logo.jpg)
 
